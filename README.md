@@ -84,18 +84,6 @@ By the end of this project, you'll have:
 - [PostgreSQL Official Docs](https://www.postgresql.org/docs/)
 - [Azure Blob Storage](https://learn.microsoft.com/en-us/azure/storage/blobs/)
 
----
-
-##  Author
-
-**Ansam Ali**  
-Data Engineer | Technical writer
-
----
-
-## 📝 License
-
-This project is for educational purposes. Please cite if used.
 
 
 
